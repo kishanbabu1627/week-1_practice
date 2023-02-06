@@ -1,0 +1,7 @@
+write an algorith to addition of two numbers
+
+step1:read first number
+step2:read second number
+step3:add first number and second number
+step4:display addition of two numbers
+

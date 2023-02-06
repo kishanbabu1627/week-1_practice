@@ -1,0 +1,7 @@
+write an algorith  to accept basic salary and find gross salary
+
+step1:read employee basic salary
+step2:read employee hra and compute it by (basic salary*87)/100
+step3:read employee da and compute it by (basic salary*89)/100
+step4:find the gross salary using formula(gross salary=basic salary+hra+da)
+step5:display gross salary

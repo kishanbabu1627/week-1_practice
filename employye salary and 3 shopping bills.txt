@@ -1,0 +1,10 @@
+write an algorithm to read employee salary and 3 shopping bill
+
+step1:enter total salary of employee
+step2:read employee shopping bill 1
+step3:read employee shopping bill 2
+step4:read employee shopping bill 3
+step5:calculate sum of 3 bill (bill1+bill2+bill3)
+step6:percentage is calculate by total*100/employee total salary
+step7:display sum
+step8:display percentage
