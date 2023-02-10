@@ -1,0 +1,17 @@
+begin
+number start,stop
+print("enter start and stop values")
+input start,stop
+if(start<stop)
+{
+for(start;start<=stop;start++)
+{
+print(start)
+}
+else
+{
+for(start;start>=stop;start--)
+{
+print(start)
+}
+end
